@@ -1,4 +1,4 @@
-# Plant Infection Classification Using Convolutional Neural Networks (CNN)
+# PlantPulse
 
 ## Project Description
 
